@@ -14,7 +14,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "android-template"
+rootProject.name = "wandup"
 
 include(":app")
 

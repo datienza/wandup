@@ -1,4 +1,4 @@
-# Android Template
+# Wandup
 
 A modular Android project template following Clean Architecture and best practices.
 
